@@ -4,9 +4,9 @@
 The code contained in the zipped file are a set of APIs that can be consumed by a Shopping Cart client.
 
 API URLs follow the form: {controller}/api/{action}/{param}; where param is one or more optional parameters. Parameters are passed as query strings. </h3>
-
-<h4> Endpoints and URLs: </h4>
 <br>
+<h4> Endpoints and URLs: </h4>
+
 <h4>Product: Properties: [ProductID, "ProductName", Quantity, Price, "PictureURL", "OwnerEmail", "OutofStock"] </h4>
 <ul>
   <li> product/api/getall        -  gets all products, requires no parameters. </li>
