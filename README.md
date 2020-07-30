@@ -1,5 +1,5 @@
 # Shopping Cart
-<h3> Backend services for a shopping cart built using ASP.NET
+<h3> Backend services for a shopping cart built using ASP.NET.
 
 The code contained in the zipped file are a set of APIs that can be consumed by a Shopping Cart client.
 
