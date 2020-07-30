@@ -1,7 +1,7 @@
 # Shopping Cart
 <h3> Backend services for a shopping cart built using ASP.NET
 
-THe code contained in the zipped file are a set of APIs that can be consumed by a Shopping Cart client.
+The code contained in the zipped file are a set of APIs that can be consumed by a Shopping Cart client.
 
 API URLs follow the form: {controller}/api/{action}/{param}; where param is one or more optional parameters. Parameters are passed as query strings. </h3>
 
